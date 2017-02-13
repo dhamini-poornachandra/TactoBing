@@ -1,10 +1,9 @@
 package com.tacto.dhamini.tacto.network.model;
 
 /**
- * Abstract entity class for all entity classes. This provides the unique id to
- * identify a row in SQL db
- * Created by plank-abhijit on 5/11/16.
+ * Created by dhamini on 13/02/2017.
  */
+
 public class AbstractEntity {
     private String id;
 
